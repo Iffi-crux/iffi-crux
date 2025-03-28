@@ -1,9 +1,6 @@
-![Cybersecurity Banner](https://images.deepai.org/art-image/b79fc979473f4155b646baf8cc3b75a2/rorbot-working-on-the-computer-termial-in-old-era.jpg)
----
-
-# 👋 Hi, I'm Iffi | Cybersecurity Enthusiast & Penetration Tester
-
----
+<div align="center">
+<img src="https://images.deepai.org/art-image/b79fc979473f4155b646baf8cc3b75a2/rorbot-working-on-the-computer-termial-in-old-era.jpg"  />
+</div>  
 
 ## 🔍 About Me
 I'm a passionate **Security Researcher** specializing in offensive security. My expertise lies in identifying vulnerabilities and securing systems through ethical hacking. I thrive in challenging environments and love solving complex security problems.
@@ -34,3 +31,16 @@ tools = {
     "AD Testing": ["BloodHound", "Impacket", "PowerView"],
     "Programming": ["Python", "Bash", "PowerShell"]
 }
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Iffi-crux" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/afaqamjad/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+</div>  
+
+<br />
