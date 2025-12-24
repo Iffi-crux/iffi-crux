@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://api.deepai.org/job-view-file/cb395089-0f2f-4e72-a49d-c276d4eba967/outputs/output.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 
@@ -61,13 +62,31 @@ class SecurityProfile:
 
 if __name__ == "__main__":
     print("System Secure? ... Checking ... False.")
+
+```
+
+---
+
 <div align="center">
 
-🌐 Connect With Me
-<a href="https://github.com/Iffi-crux" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GITHUB-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Github" /> </a> <a href="https://www.linkedin.com/in/afaqamjad/" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /> </a> <a href="mailto:afaqpk1@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/EMAIL-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /> </a>
+### 🌐 Connect With Me
+
+<a href="https://github.com/Iffi-crux" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</a>
+<a href="https://www.linkedin.com/in/afaqamjad/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:afaqpk1@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <br />
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DIffi-crux%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Iffi-crux&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
 
 </div>
+
+```
+
+```
