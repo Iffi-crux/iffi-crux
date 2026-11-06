@@ -12,11 +12,14 @@
 
 <!-- Live Social / Connect Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/afaq-amjad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://portfolio-kappa-two-nl2gh0oosc.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:afaqpk1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Security%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/afaqamjad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Afaq%20Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:afaq@faseel.app">
+    <img src="https://img.shields.io/badge/Email-afaq%40faseel.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Iffi-crux?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-23%2B%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -157,6 +160,6 @@ class SecurityResearcher:
 ---
 
 <div align="center">
-  <sub>Engineered by <strong>Afaq Amjad (Iffi-crux)</strong> • Red Teaming the Next Generation of AI Systems</sub>
+  <sub>Engineered by <strong>Afaq Amjad (Iffi-crux)</strong> • <a href="https://portfolio-kappa-two-nl2gh0oosc.vercel.app/">Portfolio Showcase</a> • <a href="https://www.linkedin.com/in/afaqamjad/">LinkedIn</a> • <a href="mailto:afaq@faseel.app">afaq@faseel.app</a></sub>
 </div>
 
